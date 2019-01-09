@@ -2,7 +2,6 @@ from matplotlib import pyplot
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d import proj3d
 import re
-import tempfile
 
 import pandas 
 from sys import exit 
